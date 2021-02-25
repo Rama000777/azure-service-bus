@@ -1,4 +1,4 @@
-package com.local.azure.controller;
+package com.local.azure.listener;
 
 import org.springframework.jms.annotation.JmsListener;
 import org.springframework.stereotype.Component;
